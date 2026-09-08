@@ -1,7 +1,7 @@
-<img align="right" width="300" src="./ChatGPT Image 8 de set. de 2026, 17_05_16.png"/>
+<img align="right" width="400" src="./ChatGPT Image 8 de set. de 2026, 17_05_16.png"/>
 
 <h1 align="left">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="40px">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px">
   Olá! Eu sou Morgana Melo 👋
 </h1>
 
@@ -55,7 +55,7 @@ Atualmente estou construindo projetos com foco em:
 
 ---
 
-## 🌱 Próximos passos na minha jornada
+## 📚 Em desenvolvimento
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento e pretendo evoluir nas seguintes tecnologias:
 
@@ -110,7 +110,6 @@ Meu portfólio será construído com foco em soluções reais, incluindo:
 ## 📫 Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/morgana-melo" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 
 ---
