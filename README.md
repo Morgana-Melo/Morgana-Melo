@@ -13,6 +13,7 @@
 ### 💻 Tecnologia da Informação & Desenvolvimento de Soluções Digitais
 
 
+
 Atuo na área de Tecnologia da Informação há mais de 7 anos, com experiência em ambientes corporativos, suporte a sistemas, atendimento a usuários, análise e resolução de incidentes.
 
 Ao longo da minha trajetória, desenvolvi experiência prática com suporte técnico, sistemas corporativos, infraestrutura, redes, Active Directory, VPN e monitoramento de ambientes.
