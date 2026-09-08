@@ -1,12 +1,12 @@
 ### Olá galera 👋
 
  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Morgana-Melo/658675b60937c048e8544642991e2575/raw/83272e479d8b133252d92b675f59f92300249fa2/githubcard.svg"/>
-<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> ✨ Eu sou a Morgana ✨ </h1>
+<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> ✨ Eu sou a Morgana Melo ✨ </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Morgana-Melo&color=yellow" alt="Profile views" /> </p>
 
 
 
-- 💻 Profissional de Tecnologia da Informação | Desenvolvimento de Soluções Digitais
+💻 Profissional de Tecnologia da Informação | Desenvolvimento de Soluções Digitais
 
 Sou profissional de Tecnologia da Informação com mais de 7 anos de experiência em ambientes corporativos, suporte a sistemas, atendimento a usuários e resolução de incidentes.
 
