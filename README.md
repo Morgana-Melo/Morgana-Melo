@@ -6,7 +6,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Morgana-Melo&color=yellow" alt="Profile views"/>
+  <img align="right" width="400" src="./githubcard.png"/>
 </p>
 
 ---
