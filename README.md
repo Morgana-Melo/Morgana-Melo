@@ -6,17 +6,41 @@
 
 
 
-- 🔥 Analista Cloud Jr
+- 💻 Profissional de Tecnologia da Informação | Desenvolvimento de Soluções Digitais
 
-- 🔭  Network  https://www.linkedin.com/in/morgana-melo 
+Sou profissional de Tecnologia da Informação com mais de 7 anos de experiência em ambientes corporativos, suporte a sistemas, atendimento a usuários e resolução de incidentes.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+Atualmente estou ampliando minha atuação para o desenvolvimento de soluções digitais, criando projetos voltados para sites, sistemas web, automações e ferramentas que possam ajudar pessoas e pequenos negócios.
 
-- ⚡ Fun fact ** Violão 😜**
+🌐 Desenvolvimento Web  
+HTML | CSS | JavaScript
 
-- 👨‍💻 More at 
+⚙️ Backend  
+Python | Flask
 
+🗄️ Banco de Dados  
+SQL | SQLite
 
+☁️ Cloud e Infraestrutura  
+AWS | Azure | Redes | Active Directory | VPN 
+
+🎯 Meu objetivo
+
+Unir minha experiência profissional em TI ao desenvolvimento de software para transformar problemas reais em soluções digitais.
+
+Atualmente estou construindo projetos com foco em:
+
+- Sites para pequenos negócios
+- Sistemas web
+- Automação de processos
+- Ferramentas para suporte e gestão de TI
+- Soluções digitais acessíveis
+
+---
+
+### 📫 Vamos nos conectar?
+
+🔗 LinkedIn: https://www.linkedin.com/in/morgana-melo
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
