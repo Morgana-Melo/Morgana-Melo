@@ -1,113 +1,118 @@
-### Olá galera 👋
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Morgana-Melo/658675b60937c048e8544642991e2575/raw/83272e479d8b133252d92b675f59f92300249fa2/githubcard.svg"/>
 
- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Morgana-Melo/658675b60937c048e8544642991e2575/raw/83272e479d8b133252d92b675f59f92300249fa2/githubcard.svg"/>
-<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> ✨ Eu sou a Morgana Melo ✨ </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Morgana-Melo&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+  Olá! Eu sou Morgana Melo 👋
+</h1>
 
-
-
-💻 Profissional de Tecnologia da Informação | Desenvolvimento de Soluções Digitais
-
-Sou profissional de Tecnologia da Informação com mais de 7 anos de experiência em ambientes corporativos, suporte a sistemas, atendimento a usuários e resolução de incidentes.
-
-Atualmente estou ampliando minha atuação para o desenvolvimento de soluções digitais, criando projetos voltados para sites, sistemas web, automações e ferramentas que possam ajudar pessoas e pequenos negócios.
-
-🌐 Desenvolvimento Web  
-HTML | CSS | JavaScript
-
-⚙️ Backend  
-Python | Flask
-
-🗄️ Banco de Dados  
-SQL | SQLite
-
-☁️ Cloud e Infraestrutura  
-AWS | Azure | Redes | Active Directory | VPN 
-
-🎯 Meu objetivo
-
-Unir minha experiência profissional em TI ao desenvolvimento de software para transformar problemas reais em soluções digitais.
-
-Atualmente estou construindo projetos com foco em:
-
-- Sites para pequenos negócios
-- Sistemas web
-- Automação de processos
-- Ferramentas para suporte e gestão de TI
-- Soluções digitais acessíveis
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Morgana-Melo&color=yellow" alt="Profile views"/>
+</p>
 
 ---
 
-### 📫 Vamos nos conectar?
+## 💻 Profissional de Tecnologia da Informação | Desenvolvimento de Soluções Digitais
 
-🔗 LinkedIn: https://www.linkedin.com/in/morgana-melo
-<br><br>
+Atuo na área de Tecnologia da Informação há mais de 7 anos, com experiência em ambientes corporativos, suporte a sistemas, atendimento a usuários, análise e resolução de incidentes.
 
-## 🛠 &nbsp;Tech Stack
+Ao longo da minha trajetória, desenvolvi experiência prática com suporte técnico, sistemas corporativos, infraestrutura, redes, Active Directory, VPN e monitoramento de ambientes.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+Estou ampliando minha atuação para o desenvolvimento de soluções digitais, criando projetos voltados para sites, sistemas web, automações e ferramentas que possam ajudar pessoas e pequenos negócios.
+
+---
+
+## 🚀 Áreas de desenvolvimento
+
+### 🌐 Desenvolvimento Web
+
+HTML | CSS | JavaScript
+
+### ⚙️ Backend
+
+Python | Flask
+
+### 🗄️ Banco de Dados
+
+SQL | SQLite
+
+### ☁️ Cloud e Infraestrutura
+
+AWS | Azure | Redes | Active Directory | VPN
+
+---
+
+## 🎯 Meu objetivo
+
+Unir minha experiência profissional em Tecnologia da Informação ao desenvolvimento de software para transformar problemas reais em soluções digitais.
+
+Atualmente estou construindo projetos com foco em:
+
+- 🌐 Sites para pequenos negócios
+- ⚙️ Sistemas web
+- 🤖 Automação de processos
+- 🖥️ Ferramentas para suporte e gestão de TI
+- 🚀 Soluções digitais acessíveis
+
+---
+
+## 🌱 Próximos passos na minha jornada
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento e pretendo evoluir nas seguintes tecnologias:
+
+- React
+- Next.js
+- Django
+- PostgreSQL
+- APIs REST
+- Arquitetura de aplicações web
+
+---
+
+## 🛠 Tech Stack
+
+### Desenvolvimento
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+### Backend e Banco de Dados
+
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+### Cloud e Ferramentas
+
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+---
 
-## ⚙️ &nbsp;GitHub Analytics
-<!--
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
+## 📂 Projetos
 
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado e evolução profissional.
 
-<br><br>
+Meu portfólio será construído com foco em soluções reais, incluindo:
 
-## Contact
+- Sites institucionais
+- Landing pages
+- Sistemas web
+- Automação
+- Ferramentas para pequenas empresas
+- Soluções para suporte e gestão de TI
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+---
+
+## 📫 Vamos nos conectar?
+
+<a href="https://www.linkedin.com/in/morgana-melo" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
 
+---
 
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<br><br>
-
-![Visual Studio Code] https://img.shields.io/badge/-MorganaMelo-05122A?style=flat&logo=visual-studio-code &nbsp;
+### 💡 Transformando experiência em tecnologia e problemas reais em soluções digitais.
