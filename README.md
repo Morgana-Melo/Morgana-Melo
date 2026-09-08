@@ -1,7 +1,7 @@
 <img align="right" width="350" src="./ChatGPT Image 8 de set. de 2026, 17_05_16.png"/>
 
 <h1 align="left">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="40px">
   Olá! Eu sou Morgana Melo 👋
 </h1>
 
