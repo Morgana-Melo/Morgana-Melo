@@ -111,6 +111,7 @@ Meu portfólio será construído com foco em soluções reais, incluindo:
 ## 📫 Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/morgana-melo" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 
 ---
