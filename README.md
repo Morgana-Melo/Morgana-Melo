@@ -2,7 +2,7 @@
 
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="40px">
-  Olá! Eu sou Morgana Melo 👋
+  Olá! Eu sou Morgana Melo.
 </h1>
 
 <p align="left">
